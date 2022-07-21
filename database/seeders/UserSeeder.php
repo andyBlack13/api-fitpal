@@ -24,7 +24,7 @@ class UserSeeder extends Seeder
             'user_type' => 'Profesor',
             'img_avatar' => 'Jose_Fernando_avatar.jpg',
             'status' => 1,
-            'email' => 'josefernando@mail.com',
+            'email' => 'josefernando@gmail.com',
             'password' => '$2y$10$5P5bUVfRobhNX/dSamJXU.9b2j00xJowPY0Q602GcNCAjEaognO32'
             //JoseFernando.*
         ]);
@@ -38,7 +38,7 @@ class UserSeeder extends Seeder
             'user_type' => 'Estudiante',
             'img_avatar' => 'Andrea_Ramirez_avatar.jpg',
             'status' => 1,
-            'email' => 'andrea@mail.com',
+            'email' => 'andrea@gmail.com',
             'password' => '$2y$10$bh0zlUtMCW0JiiZWATZqJertOxKEjw69jBCIZrXgrKdMx/TlYxL7a'
             //AndreaRamirez.*
         ]);
@@ -52,7 +52,7 @@ class UserSeeder extends Seeder
             'user_type' => 'Administrador',
             'img_avatar' => 'Carlos_avatar.jpg',
             'status' => 1,
-            'email' => 'Carlos@mail.com',
+            'email' => 'carlos@gmail.com',
             'password' => '$2y$10$gi7JQQJrdvg1kdzq/q835O7BhohWQ6CX7WAXTeLLj4P4vCnYiwkWm'
             //CarlosRamirez.*
         ]);
